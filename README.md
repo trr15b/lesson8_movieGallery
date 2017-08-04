@@ -13,10 +13,9 @@ Tristen Rogers
 Create your own movie gallery and search website.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://trr15b.github.io/lesson8_movieGallery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use javascript to pull from another source using an API key.
+2. Learned the diffrent codes and numerical values and how they corlate with diffrent status of a particular code.
+3. Learned how to use container elements to help fix how a webpage is setup inside a size adjustable browser. 
